@@ -1,5 +1,5 @@
 # small_office_network-cisco-packet-tracer-
-This project is on small office network and I have and we have implemented this project in packet tracer.
+This project is on small office network and I have implemented this project in packet tracer.
 
  Here I have created three different sectors:
 Administration, User panel and Employee department.
